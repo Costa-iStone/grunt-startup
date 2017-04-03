@@ -1,2 +1,21 @@
-# grunt-startup
-A basic frontend development startup project with grunt
+####Build dependencies
+
+[Node.js (npm)](https://nodejs.org/en/), [Grunt](http://gruntjs.com/)
+
+#####Install
+
+Install all development dependencies listed above.
+
+    npm install
+
+#####Build
+
+Compiles "source" files into "build" folder.
+
+    grunt
+
+#####Watch
+
+Watching changes in "source" files and runs build task.
+
+    grunt watch
